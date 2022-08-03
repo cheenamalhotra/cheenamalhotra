@@ -6,7 +6,7 @@
 - 🌱 Ex-dev lead on [dotnet/sqlclient](https://github.com/dotnet/sqlclient) and [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - 👩‍💻 I use daily `.cs`, `.js`, `yml`, `.sql`, `.ps`, `.json`
 - 💬 Ask me about SQL Server, Azure Data, Client connectivity, MS-TDS
-- 📫 How to reach me: [Twitter](https://twitter.com/cheenamalhotra)
+- 📫 How to reach me: [Twitter](https://twitter.com/cheenamalhotra) or cheenamalhotra@live.com
 
 What else?
 - 💕 I love photography with my full frame Nikon D850 and full-range (11mm to 600mm) of lenses
