@@ -1,7 +1,6 @@
 ### Hi, I'm Cheena Malhotra (she/her) 👋
 ----
 
-- 💼 I'm currently working at [Microsoft](https://github.com/microsoft) from Vancouver, Canada
 - 🔧 Presently maintaining [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio), [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql), and [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice)
 - 🌱 Ex-dev lead on [dotnet/sqlclient](https://github.com/dotnet/sqlclient) and [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 - 👩‍💻 I use daily `.cs`, `.js`, `yml`, `.sql`, `.ps`, `.json`
