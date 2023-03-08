@@ -3,7 +3,7 @@
 
 - 🔧 Presently maintaining [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio), [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql), and [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice)
 - 🌱 Ex-dev lead on [dotnet/sqlclient](https://github.com/dotnet/sqlclient) and [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
-- 👩‍💻 I use daily `.cs`, `.js`, `yml`, `.sql`, `.ps`, `.json`
+- 👩‍💻 I use daily `.cs`, `.ts`, `yml`, `.sql`, `.ps`, `.json`
 - 💬 Talk to me about SQL Server, Azure Data, Azure Active Directory, Client connectivity, MS-TDS, etc.
 - 📫 How to reach me: Email: cheenamalhotra at live dot com
 
