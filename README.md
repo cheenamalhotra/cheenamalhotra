@@ -1,7 +1,7 @@
 ### Hi, I'm Cheena Malhotra (she/her) 👋
 ----
 
-- 🔧 Building SQL Tools @ Azure Data (SQL Server)
+- 🔧 Building SQL Tools and Drivers @ Azure Data (SQL Server)
 - 👩‍💻 I use daily `.cs`, `.ts`, `yml`, `.sql`, `.ps`, `.json`
 - 💬 Talk to me about SQL Server, Azure Data, Azure Active Directory, Client connectivity, MS-TDS, etc.
 - 📫 How to reach me: Email: cheenamalhotra at live dot com
