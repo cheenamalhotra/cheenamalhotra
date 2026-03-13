@@ -55,7 +55,7 @@ I'm a **Software Engineer @ Microsoft** on the **Azure Data / SQL Server** team,
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cheenamalhotra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cheenamalhotra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheenamalhotra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
